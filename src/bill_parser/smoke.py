@@ -5,6 +5,7 @@ from PIL import Image
 from datasets import load_dataset
 
 ds = load_dataset("naver-clova-ix/cord-v2", split="test[:1]")
+print(ds)
 image: Image.Image = ds[0]["image"].convert("RGB")
 print(f"PIL image size (W, H) = {image.size}")
 
