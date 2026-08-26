@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/bill_parser/__init__.py
+src/bill_parser/config.py
+src/bill_parser/smoke.py
+src/roomgrub_bill_scanner.egg-info/PKG-INFO
+src/roomgrub_bill_scanner.egg-info/SOURCES.txt
+src/roomgrub_bill_scanner.egg-info/dependency_links.txt
+src/roomgrub_bill_scanner.egg-info/requires.txt
+src/roomgrub_bill_scanner.egg-info/top_level.txt
