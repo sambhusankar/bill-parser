@@ -2,13 +2,17 @@ Metadata-Version: 2.4
 Name: roomgrub-bill-scanner
 Version: 0.1.0
 Summary: Add your description here
-Requires-Python: >=3.11
+Requires-Python: <3.14,>=3.11
 Description-Content-Type: text/markdown
 Requires-Dist: accelerate>=1.14.0
 Requires-Dist: datasets>=5.0.1
 Requires-Dist: pillow>=12.3.0
 Requires-Dist: protobuf>=7.36.0
+Requires-Dist: pydantic>=2.13.4
 Requires-Dist: sentencepiece>=0.2.2
 Requires-Dist: torch>=2.5
 Requires-Dist: torchvision>=0.28.0
 Requires-Dist: transformers<6,>=5.10
+Provides-Extra: baseline
+Requires-Dist: paddleocr<4,>=3.6; extra == "baseline"
+Requires-Dist: paddlepaddle>=3.2; extra == "baseline"

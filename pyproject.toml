@@ -7,16 +7,23 @@ name = "roomgrub-bill-scanner"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<3.14"
 dependencies = [
     "accelerate>=1.14.0",
     "datasets>=5.0.1",
     "pillow>=12.3.0",
     "protobuf>=7.36.0",
+    "pydantic>=2.13.4",
     "sentencepiece>=0.2.2",
     "torch>=2.5",
     "torchvision>=0.28.0",
     "transformers>=5.10,<6",
+]
+
+[project.optional-dependencies]
+baseline = [
+    "paddleocr >= 3.6,<4",
+    "paddlepaddle >= 3.2"
 ]
 
 [dependency-groups]
@@ -31,5 +38,11 @@ dev = [
 [tool.setuptools.packages.find]
 where = ["src"]
 
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu" }]
+torchvision = [{ index = "pytorch-cpu" }]
+
 [[tool.uv.index]]
+name = "pytorch-cpu"
 url = "https://download.pytorch.org/whl/cpu"
+explicit = true

@@ -1,0 +1,865 @@
+[
+  {
+    "i": 0,
+    "pred": {
+      "items": [
+        {
+          "name": "TICKET CP",
+          "qty": null,
+          "price": 901016.0
+        }
+      ],
+      "subtotal": 60000.0,
+      "tax": 5455.0,
+      "service": null,
+      "etc": null,
+      "total": 60000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "-TICKET CP",
+          "qty": 2,
+          "price": 60000.0
+        }
+      ],
+      "subtotal": 60000.0,
+      "tax": 5455.0,
+      "service": null,
+      "etc": null,
+      "total": 60000.0
+    }
+  },
+  {
+    "i": 1,
+    "pred": {
+      "items": [
+        {
+          "name": "J.STB PROMO",
+          "qty": null,
+          "price": 17500.0
+        },
+        {
+          "name": "Y.B.BAT",
+          "qty": null,
+          "price": 46000.0
+        },
+        {
+          "name": "Y.BASO PROM",
+          "qty": null,
+          "price": 27500.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 91000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "J.STB PROMO",
+          "qty": null,
+          "price": 17500.0
+        },
+        {
+          "name": "Y.B.BAT",
+          "qty": null,
+          "price": 46000.0
+        },
+        {
+          "name": "Y.BASO PROM",
+          "qty": null,
+          "price": 27500.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 91000.0
+    }
+  },
+  {
+    "i": 2,
+    "pred": {
+      "items": [
+        {
+          "name": "JOSMINE MT (L)",
+          "qty": null,
+          "price": 24000.0
+        },
+        {
+          "name": "LUCONUT JELLY (L)",
+          "qty": null,
+          "price": 4000.0
+        }
+      ],
+      "subtotal": 28000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 1.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "JASMINE MT ( L )",
+          "qty": 1,
+          "price": 24000.0
+        }
+      ],
+      "subtotal": 28000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 28000.0
+    }
+  },
+  {
+    "i": 3,
+    "pred": {
+      "items": [
+        {
+          "name": "@11000",
+          "qty": 1,
+          "price": 11000.0
+        }
+      ],
+      "subtotal": 11000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 11000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "DONAT GULA",
+          "qty": 1,
+          "price": 11000.0
+        }
+      ],
+      "subtotal": 11000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 11000.0
+    }
+  },
+  {
+    "i": 4,
+    "pred": {
+      "items": [
+        {
+          "name": "new AVOCADO COFFEE ICE BLACKCOFFE",
+          "qty": null,
+          "price": 82000.0
+        },
+        {
+          "name": "elbe CHIKEN KATSU FF",
+          "qty": null,
+          "price": 61000.0
+        },
+        {
+          "name": "9q SUB T8TAL",
+          "qty": null,
+          "price": 194000.0
+        },
+        {
+          "name": "DISCOUNT",
+          "qty": null,
+          "price": 19400.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 174600.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "ICE BLACKCOFFE",
+          "qty": 2,
+          "price": 82000.0
+        },
+        {
+          "name": "AVOCADO COFFEE",
+          "qty": 1,
+          "price": 61000.0
+        },
+        {
+          "name": "CHIKEN KATSU FF",
+          "qty": 1,
+          "price": 51000.0
+        }
+      ],
+      "subtotal": 194000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 174600.0
+    }
+  },
+  {
+    "i": 5,
+    "pred": {
+      "items": [
+        {
+          "name": "TRAD KY TOAST CARTE",
+          "qty": null,
+          "price": 28182.0
+        },
+        {
+          "name": "SUBTTL",
+          "qty": null,
+          "price": 28182.0
+        },
+        {
+          "name": "PB-1 10%",
+          "qty": null,
+          "price": 2818.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 31000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "TRAD KY TOAST CARTE",
+          "qty": null,
+          "price": 28182.0
+        }
+      ],
+      "subtotal": 28182.0,
+      "tax": 2818.0,
+      "service": null,
+      "etc": null,
+      "total": 31000.0
+    }
+  },
+  {
+    "i": 6,
+    "pred": {
+      "items": [
+        {
+          "name": "1 EGG TART",
+          "qty": null,
+          "price": 13000.0
+        },
+        {
+          "name": "2 CHOCO CUS ARD PASTRY",
+          "qty": null,
+          "price": 24000.0
+        },
+        {
+          "name": "1 REDBEAN BREAD",
+          "qty": null,
+          "price": 9000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 46000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "EGG TART",
+          "qty": 1,
+          "price": 13000.0
+        },
+        {
+          "name": "CHOCO CUS ARD PASTRY",
+          "qty": 2,
+          "price": 24000.0
+        },
+        {
+          "name": "REDBEAN BREAD",
+          "qty": 1,
+          "price": 9000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 46000.0
+    }
+  },
+  {
+    "i": 7,
+    "pred": {
+      "items": [
+        {
+          "name": "Kupon 15",
+          "qty": null,
+          "price": 100000.0
+        },
+        {
+          "name": "ADD CHICKEN BOX",
+          "qty": null,
+          "price": 909.0
+        }
+      ],
+      "subtotal": 100909.0,
+      "tax": 10091.0,
+      "service": null,
+      "etc": null,
+      "total": 111000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "Kupon 15",
+          "qty": null,
+          "price": 100000.0
+        }
+      ],
+      "subtotal": 100909.0,
+      "tax": 10091.0,
+      "service": null,
+      "etc": null,
+      "total": 111000.0
+    }
+  },
+  {
+    "i": 8,
+    "pred": {
+      "items": [
+        {
+          "name": "1 [REG] BLACK SAKURA",
+          "qty": null,
+          "price": 45455.0
+        },
+        {
+          "name": "1 COOKIE DOH SAUCES",
+          "qty": null,
+          "price": 0.0
+        },
+        {
+          "name": "1 NATA DE COCO",
+          "qty": null,
+          "price": 0.0
+        }
+      ],
+      "subtotal": 45455.0,
+      "tax": 4545.0,
+      "service": null,
+      "etc": null,
+      "total": 50000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "[REG] BLACK SAKURA",
+          "qty": 1,
+          "price": 45455.0
+        }
+      ],
+      "subtotal": 45455.0,
+      "tax": 4545.0,
+      "service": null,
+      "etc": 0.0,
+      "total": 50000.0
+    }
+  },
+  {
+    "i": 9,
+    "pred": {
+      "items": [
+        {
+          "name": "Bumbu Kaldu Ayam 1",
+          "qty": null,
+          "price": 36000.0
+        }
+      ],
+      "subtotal": 36000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": null
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "Bumbu Kaldu Ayam 1",
+          "qty": null,
+          "price": 36000.0
+        }
+      ],
+      "subtotal": 36000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": null
+    }
+  },
+  {
+    "i": 10,
+    "pred": {
+      "items": [],
+      "subtotal": 17000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 17000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "CINNAMON SUGAR",
+          "qty": 1,
+          "price": 17000.0
+        }
+      ],
+      "subtotal": 17000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 17000.0
+    }
+  },
+  {
+    "i": 11,
+    "pred": {
+      "items": [],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 230000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "BANABERRY FRESH CREAM CAK",
+          "qty": 1,
+          "price": 230000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 230000.0
+    }
+  },
+  {
+    "i": 12,
+    "pred": {
+      "items": [
+        {
+          "name": "0571-1854 BLUS WANITA 0%",
+          "qty": null,
+          "price": 120000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 0.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "BLUS WANITA",
+          "qty": 1,
+          "price": null
+        },
+        {
+          "name": "SHOPPING BAG",
+          "qty": 1,
+          "price": null
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 120000.0
+    }
+  },
+  {
+    "i": 13,
+    "pred": {
+      "items": [
+        {
+          "name": "BASD KUAH",
+          "qty": null,
+          "price": 143636.0
+        },
+        {
+          "name": "A.MINERAL GELAS",
+          "qty": null,
+          "price": 3000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 51300.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "BASO KUAH",
+          "qty": 1,
+          "price": 43636.0
+        },
+        {
+          "name": "A.MINERAL GELAS",
+          "qty": 1,
+          "price": 3000.0
+        }
+      ],
+      "subtotal": 4663646636.0,
+      "tax": 4664.0,
+      "service": null,
+      "etc": null,
+      "total": 51300.0
+    }
+  },
+  {
+    "i": 14,
+    "pred": {
+      "items": [
+        {
+          "name": "1 RedVelvet Cheese Slc",
+          "qty": null,
+          "price": 38000.0
+        },
+        {
+          "name": "1 Chicken Baked Rice",
+          "qty": null,
+          "price": 55000.0
+        },
+        {
+          "name": "1 Fish n Chips",
+          "qty": null,
+          "price": 65000.0
+        },
+        {
+          "name": "Mushroom Soup",
+          "qty": null,
+          "price": 35000.0
+        },
+        {
+          "name": "1 Chamomile",
+          "qty": null,
+          "price": 25000.0
+        },
+        {
+          "name": "1 Iced Tea",
+          "qty": null,
+          "price": 20000.0
+        }
+      ],
+      "subtotal": 238000.0,
+      "tax": 25585.0,
+      "service": null,
+      "etc": null,
+      "total": 281435.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "RedVelvet Cheese Slc",
+          "qty": 1,
+          "price": 38000.0
+        },
+        {
+          "name": "Chicken Baked Rice",
+          "qty": 1,
+          "price": 55000.0
+        },
+        {
+          "name": "Fish n Chips",
+          "qty": 1,
+          "price": 65000.0
+        },
+        {
+          "name": "Mushroom Soup",
+          "qty": 1,
+          "price": 35000.0
+        },
+        {
+          "name": "Chamomile",
+          "qty": 1,
+          "price": 25000.0
+        },
+        {
+          "name": "Iced Tea",
+          "qty": 1,
+          "price": 20000.0
+        }
+      ],
+      "subtotal": 238000.0,
+      "tax": 25585.0,
+      "service": 17850.0,
+      "etc": null,
+      "total": 281435.0
+    }
+  },
+  {
+    "i": 15,
+    "pred": {
+      "items": [
+        {
+          "name": "Lemon Tea (L)",
+          "qty": null,
+          "price": 25000.0
+        },
+        {
+          "name": "Caramel Small",
+          "qty": null,
+          "price": 38000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 63000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "Lemon Tea (L)",
+          "qty": 1,
+          "price": 25000.0
+        },
+        {
+          "name": "Caramel Small",
+          "qty": 1,
+          "price": 38000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 63000.0
+    }
+  },
+  {
+    "i": 16,
+    "pred": {
+      "items": [
+        {
+          "name": "1 [L G] BLACK SAKURA",
+          "qty": null,
+          "price": 59091.0
+        },
+        {
+          "name": "1LONGAN",
+          "qty": null,
+          "price": 0.0
+        },
+        {
+          "name": "1 ROASTED ALMOND",
+          "qty": null,
+          "price": 0.0
+        },
+        {
+          "name": "1 VANGGO",
+          "qty": null,
+          "price": 0.0
+        },
+        {
+          "name": "1 NINERAL WATER (bundling) 5k",
+          "qty": null,
+          "price": 4545.0
+        }
+      ],
+      "subtotal": 63636.0,
+      "tax": 6364.0,
+      "service": null,
+      "etc": null,
+      "total": 70000.0
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "[LG] BLACK SAKURA",
+          "qty": 1,
+          "price": 59091.0
+        },
+        {
+          "name": "IVINERAL WATER (bundling) 5k",
+          "qty": 1,
+          "price": 4545.0
+        }
+      ],
+      "subtotal": 63636.0,
+      "tax": 6364.0,
+      "service": null,
+      "etc": 0.0,
+      "total": 70000.0
+    }
+  },
+  {
+    "i": 17,
+    "pred": {
+      "items": [
+        {
+          "name": "Goblin's Mace",
+          "qty": null,
+          "price": 25000.0
+        },
+        {
+          "name": "Mozarella Hot",
+          "qty": null,
+          "price": 38000.0
+        },
+        {
+          "name": "Chili Pepper",
+          "qty": null,
+          "price": 14000.0
+        },
+        {
+          "name": "Cheese",
+          "qty": null,
+          "price": 14000.0
+        },
+        {
+          "name": "Plastik Amook",
+          "qty": null,
+          "price": 0.0
+        },
+        {
+          "name": "Plastik Putih",
+          "qty": null,
+          "price": 0.0
+        }
+      ],
+      "subtotal": 91000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": null
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "Goblin's Mace",
+          "qty": 1,
+          "price": 25000.0
+        },
+        {
+          "name": "Mozarella Hot Dog",
+          "qty": 2,
+          "price": 38000.0
+        },
+        {
+          "name": "Chili Pepper Croquette",
+          "qty": 1,
+          "price": 14000.0
+        },
+        {
+          "name": "Cheese Croquette",
+          "qty": 1,
+          "price": 14000.0
+        },
+        {
+          "name": "Plastik Amook",
+          "qty": 1,
+          "price": 0.0
+        },
+        {
+          "name": "Plastik Putih Take Away",
+          "qty": 1,
+          "price": 0.0
+        }
+      ],
+      "subtotal": 91000.0,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 91000.0
+    }
+  },
+  {
+    "i": 18,
+    "pred": {
+      "items": [
+        {
+          "name": "Propolis Cair 1",
+          "qty": null,
+          "price": 156000.0
+        },
+        {
+          "name": "Sub Tofal",
+          "qty": null,
+          "price": 156000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": null
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "Propolis Cair",
+          "qty": 1,
+          "price": 156000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": null,
+      "service": null,
+      "etc": null,
+      "total": 156000.0
+    }
+  },
+  {
+    "i": 19,
+    "pred": {
+      "items": [
+        {
+          "name": "NET SALES",
+          "qty": null,
+          "price": 160000.0
+        }
+      ],
+      "subtotal": null,
+      "tax": 16000.0,
+      "service": null,
+      "etc": null,
+      "total": null
+    },
+    "gold": {
+      "items": [
+        {
+          "name": "AMBUSH DBL CHS",
+          "qty": 4,
+          "price": 60000.0
+        },
+        {
+          "name": "AMBUSH CHS BUR",
+          "qty": 10,
+          "price": 100000.0
+        }
+      ],
+      "subtotal": 160000.0,
+      "tax": 16000.0,
+      "service": null,
+      "etc": null,
+      "total": 176000.0
+    }
+  }
+]

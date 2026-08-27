@@ -2,7 +2,12 @@ accelerate>=1.14.0
 datasets>=5.0.1
 pillow>=12.3.0
 protobuf>=7.36.0
+pydantic>=2.13.4
 sentencepiece>=0.2.2
 torch>=2.5
 torchvision>=0.28.0
 transformers<6,>=5.10
+
+[baseline]
+paddleocr<4,>=3.6
+paddlepaddle>=3.2
